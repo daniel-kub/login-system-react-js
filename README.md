@@ -87,13 +87,19 @@ npm install
 npm run dev
 ```
 
-Screenshoty z aplikacji
+### Screenshoty z aplikacji
 
-Błąd 404
+**Błąd 404**
 ![404](https://github.com/daniel-kub/login-system-react-js/blob/main/files/404.png)
+
+**Logowanie użytkownika**
 
 ![logowanie](https://github.com/daniel-kub/login-system-react-js/blob/main/files/logowanie.png)
 
+**Rejestracja użytkownika w bazie**
+
 ![rejestracja](https://github.com/daniel-kub/login-system-react-js/blob/main/files/rejestracja.png)
+
+**Użytkownik zalogowany pomyślnie**
 
 ![zalogowany użytkownik](https://github.com/daniel-kub/login-system-react-js/blob/main/files/zalogowany_uzytkownik.png)
