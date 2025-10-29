@@ -52,14 +52,6 @@ export const Panel = () => {
             Wyloguj się
           </button>
 
-          <div className="text-center">
-            <Link
-              to="/logowanie"
-              className="text-sm font-medium text-emerald-600 hover:text-emerald-800 hover:underline transition"
-            >
-              ← Powrót do logowania
-            </Link>
-          </div>
         </div>
 
       

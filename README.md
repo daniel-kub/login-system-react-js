@@ -87,3 +87,4 @@ npm install
 npm run dev
 ```
 
+Screenshoty z aplikacji
