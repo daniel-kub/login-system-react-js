@@ -88,3 +88,12 @@ npm run dev
 ```
 
 Screenshoty z aplikacji
+
+Błąd 404
+![404](https://github.com/daniel-kub/login-system-react-js/blob/main/files/404.png)
+
+![logowanie](https://github.com/daniel-kub/login-system-react-js/blob/main/files/logowanie.png)
+
+![rejestracja](https://github.com/daniel-kub/login-system-react-js/blob/main/files/rejestracja.png)
+
+![zalogowany użytkownik](https://github.com/daniel-kub/login-system-react-js/blob/main/files/zalogowany_uzytkownik.png)
