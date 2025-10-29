@@ -23,7 +23,7 @@ frontend/*.njsproj
 frontend/*.sln
 frontend/*.sw?
 
-backend/.venv/*
+backend/.venv
 *.pyc
 *.env
 __pycache__/
